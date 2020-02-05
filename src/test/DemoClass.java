@@ -21,9 +21,13 @@ System.out.println();
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 =======
 	
 	Syso"print new files"----new added 
 }
 >>>>>>> e08699b95105b23d3663464df115ed6bdccf634c
+=======
+/hellooooo
+>>>>>>> Stashed changes
 }
